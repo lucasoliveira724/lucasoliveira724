@@ -1,16 +1,25 @@
-## Hi there 👋
+## 🎯 Professional Focus
 
-<!--
-**lucasoliveira724/lucasoliveira724** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```text
+Salesforce Marketing Cloud
+        │
+        ├── Marketing Automation
+        ├── Customer Journeys
+        ├── Data & SQL
+        ├── Personalization
+        ├── Integrations
+        │
+        └── Development & Automation
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+
+<p>
+  <a href="https://www.linkedin.com/in/lucas-oliveira-7948b494/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+📍 São Paulo, Brazil
